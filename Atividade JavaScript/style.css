@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    font-size: 25px;
+}
+
+.lista{
+    text-align: center;
+   font-size: 25px;
+}
+
+.lista ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lista nav a{
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+}
+
+.lista nav li{
+    padding: 25px;
+}
+
+.lista nav li:hover{
+    background-color: gray;
+    border: solid 3px;
+
+}
